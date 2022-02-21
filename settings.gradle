@@ -8,7 +8,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "project2"
 include ':app'
-include ':testopencv'
 
 
-
+include ':test'
